@@ -44,7 +44,7 @@ const Recycle: React.FC = () => {
     setError("");
   
     try {
-      const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyAJRwLv1ArJbq-F7-4wb0q_KhZ9PHz4uOo`, {
+      const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
