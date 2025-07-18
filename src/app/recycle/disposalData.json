@@ -1,0 +1,194 @@
+{
+  "Plastic": {
+    "disposal": [
+      "1. Rinse plastic items thoroughly to remove food and liquid residues.",
+      "2. Sort plastic by type (PET, HDPE, PVC, etc.) as per local recycling guidelines.",
+      "3. Avoid crushing bottles if local recycling requires shape retention.",
+      "4. Remove non-recyclable components like plastic films or multi-layered plastics.",
+      "5. Place in designated plastic recycling bins or drop-off centers."
+    ],
+    "recycle": [
+      "1. Shred and melt plastic into small pellets for remanufacturing.",
+      "2. Repurpose plastic into new bottles, containers, or textiles.",
+      "3. Convert some plastics into biofuels or construction materials.",
+      "4. Upcycle plastics into eco-friendly products like reusable bags.",
+      "5. Certain plastics (e.g., PVC) require specialized recycling to prevent toxic emissions."
+    ],
+    "impact": [
+      "1. Plastic takes hundreds of years to decompose, accumulating in landfills and oceans.",
+      "2. Breakdown of plastics releases harmful microplastics that enter food chains.",
+      "3. Recycling reduces the demand for virgin plastic, saving fossil fuels.",
+      "4. Plastic pollution endangers marine life and wildlife.",
+      "5. Producing recycled plastic uses less energy and resources than new plastic production."
+    ],
+    "dustbin": "Blue Bin (Dry Waste / Recyclables)"
+  },
+  "Glass": {
+    "disposal": [
+      "1. Rinse glass bottles and jars to remove any residue.",
+      "2. Remove and separate metal lids, caps, or plastic seals.",
+      "3. Avoid mixing with ceramic, tempered glass, or mirrors, as they are not recyclable.",
+      "4. Sort by color if required (clear, green, brown) to improve recycling quality.",
+      "5. Place in glass-specific recycling bins or take to a glass recycling center."
+    ],
+    "recycle": [
+      "1. Glass is crushed into cullet and melted for reuse.",
+      "2. New glass products (bottles, jars, fiberglass) are made from recycled cullet.",
+      "3. Unlike plastic, glass can be infinitely recycled without losing quality.",
+      "4. Recycled glass requires less energy than producing new glass from raw materials.",
+      "5. Some crushed glass is used in construction for road paving and sandblasting."
+    ],
+    "impact": [
+      "1. Recycling glass reduces mining of sand and natural resources.",
+      "2. Saves energy and reduces carbon emissions in production.",
+      "3. Prevents glass from ending up in landfills, where it takes thousands of years to degrade.",
+      "4. Using recycled glass reduces waste generation and supports sustainability.",
+      "5. Helps in reducing industrial air pollution by lowering the need for raw material extraction."
+    ],
+    "dustbin": "Blue Bin (Dry Waste / Recyclables)"
+  },
+  "Paper": {
+    "disposal": [
+      "1. Keep paper dry and clean, as contaminated paper is not recyclable.",
+      "2. Flatten and sort before placing in a paper-specific bin.",
+      "3. Avoid throwing in wax-coated, laminated, or greasy paper, as they are non-recyclable.",
+      "4. Shred sensitive documents before recycling, but avoid shredding paper unnecessarily.",
+      "5. Remove staples or clips when possible, as they can interfere with processing."
+    ],
+    "recycle": [
+      "1. Paper is shredded and mixed with water to form a pulp.",
+      "2. Ink and other impurities are removed using de-inking chemicals.",
+      "3. The cleaned pulp is pressed and dried to create new paper products.",
+      "4. Recycled paper is used in making new newspapers, cardboard, and office paper.",
+      "5. Some paper waste can be composted instead of recycled if free from ink and chemicals."
+    ],
+    "impact": [
+      "1. Saves millions of trees, reducing deforestation and protecting wildlife habitats.",
+      "2. Lowers CO₂ emissions by reducing the need for virgin paper production.",
+      "3. Reduces water and energy consumption, as recycling paper uses fewer resources.",
+      "4. Cuts down on landfill waste, preventing paper from generating methane gas.",
+      "5. Helps in maintaining a circular economy by reusing materials efficiently."
+    ],
+    "dustbin": "Blue Bin (Dry Waste / Recyclables)"
+  },
+  "E-waste": {
+    "disposal": [
+      "1. Backup and erase personal data before disposing of electronic devices.",
+      "2. Do not throw electronics in regular trash; take them to certified e-waste centers.",
+      "3. Separate batteries, chargers, and accessories for proper disposal.",
+      "4. Look for manufacturer take-back programs for recycling old electronics.",
+      "5. Donate working devices to charities or refurbishers instead of discarding them."
+    ],
+    "recycle": [
+      "1. Extract valuable materials like gold, silver, copper, and rare metals.",
+      "2. Separate circuit boards, plastics, and metals for proper reuse.",
+      "3. Batteries are processed separately to prevent toxic leakage.",
+      "4. Some components are refurbished and used in new devices.",
+      "5. Hazardous materials (lead, mercury) are disposed of safely to prevent contamination."
+    ],
+    "impact": [
+      "1. Reduces the risk of toxic heavy metals leaching into the soil and water.",
+      "2. Saves scarce resources by recovering valuable materials.",
+      "3. Reduces the carbon footprint of producing new electronics.",
+      "4. Prevents environmental hazards from illegal e-waste dumping.",
+      "5. Supports the circular economy by reusing and repurposing components."
+    ],
+    "dustbin": "Dedicated E-Waste Bin / Collection Centers"
+  },
+  "Organic": {
+    "disposal": [
+      "1. Collect food scraps, leaves, and biodegradable waste separately.",
+      "2. Avoid mixing with plastic, metal, or glass to keep compost pure.",
+      "3. Use a home compost bin or municipal composting service if available.",
+      "4. Do not include meat, dairy, or oily foods, as they can attract pests.",
+      "5. Compost at the right moisture and aeration levels for faster decomposition."
+    ],
+    "recycle": [
+      "1. Organic waste is converted into compost, enriching soil naturally.",
+      "2. Some waste is processed into biogas, producing renewable energy.",
+      "3. Composting reduces methane emissions from landfill decomposition.",
+      "4. The final compost is used in agriculture and gardening.",
+      "5. Food waste can also be used for animal feed in some cases."
+    ],
+    "impact": [
+      "1. Reduces the burden on landfills, lowering methane gas emissions.",
+      "2. Improves soil quality, reducing the need for chemical fertilizers.",
+      "3. Supports sustainable farming and food production.",
+      "4. Helps conserve water and natural resources.",
+      "5. Encourages a zero-waste lifestyle by promoting responsible disposal."
+    ],
+    "dustbin": "Green Bin (Wet Waste / Biodegradable Waste)"
+  },
+  "Metal": {
+    "disposal": [
+      "1. Clean metal items before disposal to remove contaminants.",
+      "2. Separate aluminum, steel, copper, and other metals for recycling.",
+      "3. Take scrap metal to designated recycling centers.",
+      "4. Avoid disposing of hazardous metals like lead or mercury improperly.",
+      "5. Do not mix metal waste with regular trash to prevent contamination."
+    ],
+    "recycle": [
+      "1. Metals are melted down and reshaped for reuse.",
+      "2. Extracted alloys are used for construction, transportation, and electronics.",
+      "3. Aluminum cans and scrap metal are recycled into new products.",
+      "4. Recycling metals requires far less energy than mining new ores.",
+      "5. Recycled metals are widely used in manufacturing, packaging, and infrastructure."
+    ],
+    "impact": [
+      "1. Reduces the need for mining, which destroys ecosystems.",
+      "2. Conserves natural metal resources like iron, copper, and aluminum.",
+      "3. Significantly lowers energy consumption and carbon emissions.",
+      "4. Prevents toxic metal waste from polluting the environment.",
+      "5. Helps create a circular economy with sustainable resource use."
+    ],
+    "dustbin": "Blue Bin (Dry Waste / Recyclables)"
+  },
+  "Cardboard": {
+    "disposal": [
+      "1. Keep paper dry and clean, as contaminated paper is not recyclable.",
+      "2. Flatten and sort before placing in a paper-specific bin.",
+      "3. Avoid throwing in wax-coated, laminated, or greasy paper, as they are non-recyclable.",
+      "4. Shred sensitive documents before recycling, but avoid shredding paper unnecessarily.",
+      "5. Remove staples or clips when possible, as they can interfere with processing."
+    ],
+    "recycle": [
+      "1. Paper is shredded and mixed with water to form a pulp.",
+      "2. Ink and other impurities are removed using de-inking chemicals.",
+      "3. The cleaned pulp is pressed and dried to create new paper products.",
+      "4. Recycled paper is used in making new newspapers, cardboard, and office paper.",
+      "5. Some paper waste can be composted instead of recycled if free from ink and chemicals."
+    ],
+    "impact": [
+      "1. Saves millions of trees, reducing deforestation and protecting wildlife habitats.",
+      "2. Lowers CO₂ emissions by reducing the need for virgin paper production.",
+      "3. Reduces water and energy consumption, as recycling paper uses fewer resources.",
+      "4. Cuts down on landfill waste, preventing paper from generating methane gas.",
+      "5. Helps in maintaining a circular economy by reusing materials efficiently."
+    ],
+    "dustbin": "Blue Bin (Dry Waste / Recyclables)"
+  },
+  "Biodegradable": {
+    "disposal": [
+      "1. Collect food scraps, leaves, and biodegradable waste separately.",
+      "2. Avoid mixing with plastic, metal, or glass to keep compost pure.",
+      "3. Use a home compost bin or municipal composting service if available.",
+      "4. Do not include meat, dairy, or oily foods, as they can attract pests.",
+      "5. Compost at the right moisture and aeration levels for faster decomposition."
+    ],
+    "recycle": [
+      "1. Organic waste is converted into compost, enriching soil naturally.",
+      "2. Some waste is processed into biogas, producing renewable energy.",
+      "3. Composting reduces methane emissions from landfill decomposition.",
+      "4. The final compost is used in agriculture and gardening.",
+      "5. Food waste can also be used for animal feed in some cases."
+    ],
+    "impact": [
+      "1. Reduces the burden on landfills, lowering methane gas emissions.",
+      "2. Improves soil quality, reducing the need for chemical fertilizers.",
+      "3. Supports sustainable farming and food production.",
+      "4. Helps conserve water and natural resources.",
+      "5. Encourages a zero-waste lifestyle by promoting responsible disposal."
+    ],
+    "dustbin": "Green Bin (Wet Waste / Biodegradable Waste)"
+  }
+}
